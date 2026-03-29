@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Virat Kohli",
+    "nationality": "India",
+    "position": "Batsman",
+    "handed": "Right-hand bat",
+    "rating": 9.5,
+    "price": 120000,
+    "img": "https://i.pravatar.cc/300?img=1"
+  },
+  {
+    "name": "Babar Azam",
+    "nationality": "Pakistan",
+    "position": "Batsman",
+    "handed": "Right-hand bat",
+    "rating": 9.3,
+    "price": 110000,
+    "img": "https://i.pravatar.cc/300?img=2"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "nationality": "Bangladesh",
+    "position": "Allrounder",
+    "handed": "Left-hand bat",
+    "rating": 9.0,
+    "price": 100000,
+    "img": "https://i.pravatar.cc/300?img=3"
+  },
+  {
+    "name": "Ben Stokes",
+    "nationality": "England",
+    "position": "Allrounder",
+    "handed": "Left-hand bat",
+    "rating": 9.2,
+    "price": 115000,
+    "img": "https://i.pravatar.cc/300?img=4"
+  },
+  {
+    "name": "Mitchell Starc",
+    "nationality": "Australia",
+    "position": "Bowler",
+    "handed": "Left-arm fast",
+    "rating": 9.1,
+    "price": 105000,
+    "img": "https://i.pravatar.cc/300?img=5"
+  },
+  {
+    "name": "Trent Boult",
+    "nationality": "New Zealand",
+    "position": "Bowler",
+    "handed": "Left-arm fast",
+    "rating": 8.9,
+    "price": 98000,
+    "img": "https://i.pravatar.cc/300?img=6"
+  },
+  {
+    "name": "Rohit Sharma",
+    "nationality": "India",
+    "position": "Batsman",
+    "handed": "Right-hand bat",
+    "rating": 9.4,
+    "price": 118000,
+    "img": "https://i.pravatar.cc/300?img=7"
+  },
+  {
+    "name": "Kane Williamson",
+    "nationality": "New Zealand",
+    "position": "Batsman",
+    "handed": "Right-hand bat",
+    "rating": 9.0,
+    "price": 102000,
+    "img": "https://i.pravatar.cc/300?img=8"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "nationality": "India",
+    "position": "Bowler",
+    "handed": "Right-arm fast",
+    "rating": 9.3,
+    "price": 112000,
+    "img": "https://i.pravatar.cc/300?img=9"
+  },
+  {
+    "name": "Hardik Pandya",
+    "nationality": "India",
+    "position": "Allrounder",
+    "handed": "Right-hand bat",
+    "rating": 8.8,
+    "price": 95000,
+    "img": "https://i.pravatar.cc/300?img=10"
+  }
+]
